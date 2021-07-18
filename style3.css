@@ -51,6 +51,10 @@ li {
   background-color: #111111;
 }
 
+table, th, td {
+  border: solid black;
+}
+
 a {
   text-decoration: none;
   color: cyan;
