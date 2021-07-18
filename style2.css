@@ -1,3 +1,9 @@
+body {
+  color: white;
+  text-align: center;
+  
+}
+
 .menu ul {
   list-style-type: none;
   margin: 0;
