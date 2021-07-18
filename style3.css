@@ -53,10 +53,7 @@ li {
 
 table, th, td {
   border: solid white;
-}
-
-table td {
-  left-padding: 25%;
+  border-collapse: collapse;
 }
 
 a {
