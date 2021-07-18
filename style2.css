@@ -3,6 +3,19 @@ body {
   font: 21px Arial, sans-serif;
 }
 
+.backgroundimg {
+  /* The image used */
+  background-image: url("nightwebbg.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .menu ul {
   list-style-type: none;
   margin: 0;
