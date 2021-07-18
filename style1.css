@@ -3,7 +3,7 @@
   background-image: url("nightwebbg.jpg");
 
   /* Full height */
-  height: 100%;
+  height: auto;
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -12,8 +12,8 @@
 }
 
 body {
- height: 100%;
- color: white;
+  color: White;
+  font: 21px Arial, sans-serif;
 }
 
 .menu ul {
