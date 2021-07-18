@@ -53,7 +53,10 @@ li {
 
 table, th, td {
   border: solid white;
-  padding-left: 25px;
+}
+
+table tad {
+  padding-left:15%;
 }
 
 a {
