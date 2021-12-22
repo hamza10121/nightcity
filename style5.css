@@ -50,3 +50,8 @@ li {
 .menu li a:hover {
   background-color: #111111;
 }
+
+table, th, td {
+  border: solid white;
+  border-collapse: collapse;
+}
